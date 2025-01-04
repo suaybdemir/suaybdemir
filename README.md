@@ -38,7 +38,7 @@ I'm a passionate software developer with a keen interest in web development, dat
 
 ## Projects
 
-### [Project Name](https://github.com/suaybdemir/project-name](https://github.com/suaybdemir/LibraryAPI)
+### [Project Name](https://github.com/suaybdemir/LibraryAPI)
 I built it for book management systems.
 
 ### [Another Project](https://github.com/suaybdemir/ECommerceApp)
