@@ -8,8 +8,8 @@ I'm a passionate software developer with a keen interest in web development, dat
 - 🌱 Learning: Advanced JavaScript, Machine Learning
 - 👯 Looking to collaborate on: Open-source projects, innovative web applications
 - 💬 Ask me about: JavaScript, Python, React, Node.js
-- 📫 How to reach me: suaybdemir@example.com
-- ⚡ Fun fact: I enjoy playing chess and hiking in my free time
+- 📫 How to reach me: info@suaybdemir.com
+- ⚡ Fun fact: I enjoy playing chess and piano in my free time
 
 ## Skills
 
@@ -38,11 +38,12 @@ I'm a passionate software developer with a keen interest in web development, dat
 
 ## Projects
 
-### [Project Name](https://github.com/suaybdemir/project-name)
-A brief description of the project. What technologies were used, what problem it solves, etc.
+### [Project Name](https://github.com/suaybdemir/project-name](https://github.com/suaybdemir/LibraryAPI)
+I built it for book management systems.
 
-### [Another Project](https://github.com/suaybdemir/another-project)
-A brief description of this project as well.
+### [Another Project](https://github.com/suaybdemir/ECommerceApp)
+Created as to commerical subjects.
+https://www.sacoctiy.com.tr
 
 ## Connect with Me
 
