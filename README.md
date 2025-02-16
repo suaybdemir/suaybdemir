@@ -11,26 +11,10 @@ I'm a passionate software developer with a keen interest in web development, dat
 - 📫 How to reach me: info@suaybdemir.com
 - ⚡ Fun fact: I enjoy playing chess and piano in my free time
 
-## Skills
-
-### Languages
-- JavaScript
-- Python
-- HTML/CSS
-- SQL
-
 ### Frameworks & Libraries
+- .Net
 - React
-- Node.js
-- Express
-- Django
-- Pandas
-
-### Tools
-- Git & GitHub
-- Docker
-- VS Code
-- Jupyter
+- Angula
 
 ## GitHub Stats
 
@@ -38,14 +22,13 @@ I'm a passionate software developer with a keen interest in web development, dat
 
 ## Projects
 
-### [Project Name](https://github.com/suaybdemir/LibraryAPI)
+### [LibraryAPI](https://github.com/suaybdemir/LibraryAPI)
 I built it for book management systems.
 
-### [Another Project](https://github.com/suaybdemir/ECommerceApp)
+### [E-Catalog](https://github.com/suaybdemir/ECommerceApp)
 Created as to commerical subjects.
 https://www.sacoctiy.com.tr
 
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://linkedin.com/in/suaybdemir)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&labelColor=blue)](https://twitter.com/suaybdemir)
