@@ -5,9 +5,9 @@
 I'm a passionate software developer with a keen interest in web development, data science, and open-source contributions. I love to explore new technologies and improve my coding skills by working on challenging projects.
 
 - 💻 Currently working on: Full-stack web applications
-- 🌱 Learning: Advanced JavaScript, Machine Learning
+- 🌱 Learning: Web-Development , Artificial Intelligence
 - 👯 Looking to collaborate on: Open-source projects, innovative web applications
-- 💬 Ask me about: JavaScript, Python, React, Node.js
+- 💬 Ask me about: .Net, Python, Angular
 - 📫 How to reach me: info@suaybdemir.com
 - ⚡ Fun fact: I enjoy playing chess and piano in my free time
 
