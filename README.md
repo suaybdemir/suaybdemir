@@ -13,7 +13,6 @@ I'm a passionate software developer with a keen interest in web development, dat
 
 ### Frameworks & Libraries
 - .Net
-- React
 - Angular
 
 ## GitHub Stats
