@@ -7,12 +7,13 @@ I'm a passionate software developer with a keen interest in web development, dat
 - 💻 Currently working on: Full-stack web applications
 - 🌱 Learning: Web-Development , Artificial Intelligence
 - 👯 Looking to collaborate on: Open-source projects, innovative web applications
-- 💬 Ask me about: .Net, Python, Angular
+- 💬 Ask me about: .Net, Python, React , Angular
 - 📫 How to reach me: info@suaybdemir.com
 - ⚡ Fun fact: I enjoy playing chess and piano in my free time
 
 ### Frameworks & Libraries
 - .Net
+- React
 - Angular
 
 ## GitHub Stats
