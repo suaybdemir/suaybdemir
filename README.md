@@ -1,5 +1,5 @@
 
-- 📫 How to reach me: info@suaybdemir.com
+📫 How to reach me: info@suaybdemir.com
 
 ## GitHub Stats
 
