@@ -14,10 +14,12 @@
 ║   🎓 Software Engineering Student                                            ║
 ║   📍 Türkiye                                                                  ║
 ║   💼 Full-Stack Developer & AI Researcher                                   ║
-║   🔗 https://www.suaybdemir.com                                                  ║
+║   🔗 https://suaybdemir.com                                                  ║
 ║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
+
+<a href="https://www.suaybdemir.com">🔗 <b>www.suaybdemir.com</b></a>
 
 <!-- SOCIAL BADGES -->
 <a href="https://www.suaybdemir.com"><img src="https://img.shields.io/badge/WEBSITE-0D1117?style=for-the-badge&logo=google-chrome&logoColor=6366f1"/></a>
