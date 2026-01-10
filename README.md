@@ -69,12 +69,20 @@ const suayb = {
 ## 📊 GitHub İstatistikleri
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suaybdemir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suaybdemir&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=suaybdemir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suaybdemir&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=suaybdemir&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suaybdemir&layout=compact&langs_count=8&theme=default" alt="Top Languages"/>
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suaybdemir&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=suaybdemir&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+  </a>
 </div>
 
 <div align="center">
@@ -86,7 +94,9 @@ const suayb = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=suaybdemir&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=suaybdemir&theme=discord&no-frame=true&no-bg=false&margin-w=10&row=1&column=7" alt="GitHub Trophies"/>
+  </a>
 </div>
 
 ---
@@ -95,19 +105,19 @@ const suayb = {
 
 <div align="center">
   <a href="https://github.com/KremnaCompanyChatBot/Dashboard-Reporting">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KremnaCompanyChatBot&repo=Dashboard-Reporting&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KremnaCompanyChatBot&repo=Dashboard-Reporting&theme=react&hide_border=true&bg_color=0D1117" />
   </a>
   <a href="https://github.com/suaybdemir/MiDeSeC-YOLOv11">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=suaybdemir&repo=MiDeSeC-YOLOv11&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=suaybdemir&repo=MiDeSeC-YOLOv11&theme=react&hide_border=true&bg_color=0D1117" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/suaybdemir/LibraryAPI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=suaybdemir&repo=LibraryAPI&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=suaybdemir&repo=LibraryAPI&theme=react&hide_border=true&bg_color=0D1117" />
   </a>
   <a href="https://github.com/suaybdemir/MiniECommerce-Microservice">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=suaybdemir&repo=MiniECommerce-Microservice&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=suaybdemir&repo=MiniECommerce-Microservice&theme=react&hide_border=true&bg_color=0D1117" />
   </a>
 </div>
 
