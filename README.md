@@ -1,6 +1,6 @@
 <div align="center">
 
-# � Merhaba, Ben Suayb Demir!
+# 👋 Merhaba, Ben Suayb Demir!
 
 ### 🎓 Software Engineering Student | 💻 Full-Stack Developer | 🤖 AI Enthusiast
 
@@ -9,7 +9,7 @@
 [![Email](https://img.shields.io/badge/Email-info@suaybdemir.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@suaybdemir.com)
 [![GitHub followers](https://img.shields.io/github/followers/suaybdemir?style=for-the-badge&logo=github&label=Followers)](https://github.com/suaybdemir?tab=followers)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Building+scalable+applications+%F0%9F%9A%80;Passionate+about+AI+%26+Machine+Learning+%F0%9F%A4%96;Love+crafting+clean+code+%E2%9C%A8;Always+learning+new+technologies+%F0%9F%93%9A" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Building+scalable+applications+%F0%9F%9A%80;Passionate+about+AI+%26+Machine+Learning+%F0%9F%A4%96;Love+crafting+clean+code+%E2%9C%A8;Always+learning+new+technologies+%F0%9F%93%9A" alt="Typing SVG" />
 
 </div>
 
@@ -69,21 +69,17 @@ const suayb = {
 ## 📊 GitHub İstatistikleri
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=suaybdemir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suaybdemir&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=suaybdemir&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suaybdemir&layout=compact&langs_count=8&theme=default" alt="Top Languages"/>
-  </picture>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=suaybdemir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" height="180em" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=suaybdemir&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180em" alt="Top Languages"/>
 </div>
 
+<br/>
+
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=suaybdemir&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-  </a>
+  <img src="https://streak-stats.demolab.com?user=suaybdemir&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=suaybdemir&bg_color=0D1117&color=70a5fd&line=6366f1&point=bf91f3&area=true&hide_border=true" alt="Contribution Graph"/>
@@ -94,9 +90,7 @@ const suayb = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=suaybdemir&theme=discord&no-frame=true&no-bg=false&margin-w=10&row=1&column=7" alt="GitHub Trophies"/>
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=suaybdemir&theme=discord&no-frame=true&column=7&margin-w=10" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -104,33 +98,16 @@ const suayb = {
 ## 🌟 Öne Çıkan Projeler
 
 <div align="center">
-  <a href="https://github.com/KremnaCompanyChatBot/Dashboard-Reporting">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KremnaCompanyChatBot&repo=Dashboard-Reporting&theme=react&hide_border=true&bg_color=0D1117" />
-  </a>
-  <a href="https://github.com/suaybdemir/MiDeSeC-YOLOv11">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=suaybdemir&repo=MiDeSeC-YOLOv11&theme=react&hide_border=true&bg_color=0D1117" />
-  </a>
-</div>
 
-<div align="center">
-  <a href="https://github.com/suaybdemir/LibraryAPI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=suaybdemir&repo=LibraryAPI&theme=react&hide_border=true&bg_color=0D1117" />
-  </a>
-  <a href="https://github.com/suaybdemir/MiniECommerce-Microservice">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=suaybdemir&repo=MiniECommerce-Microservice&theme=react&hide_border=true&bg_color=0D1117" />
-  </a>
-</div>
+| Proje | Açıklama | Teknoloji |
+|-------|----------|-----------|
+| [**Dashboard-Reporting**](https://github.com/KremnaCompanyChatBot/Dashboard-Reporting) | Kremna Chatbot için web tabanlı analytics paneli | ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) |
+| [**MiDeSeC-YOLOv11**](https://github.com/suaybdemir/MiDeSeC-YOLOv11) | Histopatolojik görüntülerde mitoz tespiti (%100 Recall) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![YOLO](https://img.shields.io/badge/-YOLO-00FFFF?style=flat&logoColor=black) |
+| [**LibraryAPI**](https://github.com/suaybdemir/LibraryAPI) | Kütüphane yönetim sistemi RESTful API | ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white) ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white) |
+| [**MiniECommerce-Microservice**](https://github.com/suaybdemir/MiniECommerce-Microservice) | Mikroservis mimarisi ile e-ticaret sistemi | ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) |
+| [**DesignPatterns**](https://github.com/suaybdemir/DesignPatterns) | Java ile tasarım desenleri örnekleri | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white) |
+| [**ai-chatbot-excel**](https://github.com/suaybdemir/ai-chatbot-excel) | AI destekli Excel chatbot uygulaması | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JS-F7DF1E?style=flat&logo=javascript&logoColor=black) |
 
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suaybdemir/suaybdemir/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suaybdemir/suaybdemir/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/suaybdemir/suaybdemir/output/github-contribution-grid-snake.svg" />
-  </picture>
 </div>
 
 ---
