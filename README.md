@@ -76,12 +76,6 @@ const suayb = {
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=suaybdemir&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=suaybdemir&bg_color=0D1117&color=70a5fd&line=6366f1&point=bf91f3&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
