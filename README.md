@@ -1,129 +1,147 @@
 <div align="center">
 
-# 👋 Merhaba, Ben Suayb Demir!
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6366f1&height=200&section=header&text=SUAYB%20DEMIR&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descSize=18&descAlignY=55" width="100%"/>
 
-### 🎓 Software Engineering Student | 💻 Full-Stack Developer | 🤖 AI Enthusiast
-
-[![Website](https://img.shields.io/badge/Website-suaybdemir.com-1abc9c?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.suaybdemir.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-suaybdemir-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suaybdemir)
-[![Email](https://img.shields.io/badge/Email-info@suaybdemir.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@suaybdemir.com)
-[![GitHub followers](https://img.shields.io/github/followers/suaybdemir?style=for-the-badge&logo=github&label=Followers)](https://github.com/suaybdemir?tab=followers)
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Building+scalable+applications+%F0%9F%9A%80;Passionate+about+AI+%26+Machine+Learning+%F0%9F%A4%96;Love+crafting+clean+code+%E2%9C%A8;Always+learning+new+technologies+%F0%9F%93%9A" alt="Typing SVG" />
-
-</div>
-
----
-
-## 🚀 Hakkımda
-
-```javascript
-const suayb = {
-    title: "Software Engineering Student",
-    location: "Türkiye 🇹🇷",
-    interests: ["Full-Stack Development", "AI/ML", "Microservices", "Cloud Computing"],
-    currentlyLearning: ["Deep Learning", "System Design", "DevOps"],
-    funFact: "I turn ☕ into </code>"
-};
+<!-- TERMINAL INTRO -->
+```zsh
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║   > whoami                                                                   ║
+║   suaybdemir                                                                 ║
+║                                                                              ║
+║   > cat /etc/profile                                                         ║
+║   🎓 Software Engineering Student                                            ║
+║   📍 Türkiye                                                                  ║
+║   💼 Full-Stack Developer & AI Researcher                                   ║
+║   🔗 https://suaybdemir.com                                                  ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
----
+<!-- SOCIAL BADGES -->
+<a href="https://www.suaybdemir.com"><img src="https://img.shields.io/badge/WEBSITE-0D1117?style=for-the-badge&logo=google-chrome&logoColor=6366f1"/></a>
+<a href="https://linkedin.com/in/suaybdemir"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
+<a href="mailto:info@suaybdemir.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
+<a href="https://github.com/suaybdemir?tab=followers"><img src="https://img.shields.io/github/followers/suaybdemir?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=0D1117"/></a>
 
-## 🛠️ Tech Stack
+<br/><br/>
 
-<div align="center">
-
-### Languages
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend & Frameworks
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### AI & Machine Learning
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=80&lines=%24+echo+%22Welcome+to+my+digital+space%22;%3E+Transforming+ideas+into+scalable+solutions..." alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 📊 GitHub İstatistikleri
+## `> ./skills.sh`
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=suaybdemir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" height="180em" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=suaybdemir&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180em" alt="Top Languages"/>
+
+<!-- LANGUAGES -->
+<img src="https://skillicons.dev/icons?i=cs,java,python,javascript,typescript&theme=dark" alt="Languages"/>
+
+<br/>
+
+<!-- FRONTEND -->
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" alt="Frontend"/>
+
+<br/>
+
+<!-- BACKEND & CLOUD -->
+<img src="https://skillicons.dev/icons?i=dotnet,nestjs,nodejs,docker,kubernetes&theme=dark" alt="Backend"/>
+
+<br/>
+
+<!-- AI & DATABASE -->
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,postgres,mongodb,redis&theme=dark" alt="AI & DB"/>
+
+<br/>
+
+<!-- TOOLS -->
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,azure&theme=dark" alt="Tools"/>
+
+</div>
+
+---
+
+## `> neofetch --stats`
+
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=suaybdemir&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9" height="180em" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=suaybdemir&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=c9d1d9" height="180em" alt="Top Languages"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suaybdemir&bg_color=0D1117&color=70a5fd&line=6366f1&point=bf91f3&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suaybdemir&bg_color=0D1117&color=6366f1&line=6366f1&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Timeline" alt="Contribution Graph" width="95%"/>
 </div>
 
 ---
 
-## 🏆 Başarılar & Rozetler
+## `> cat metrics.json`
 
 <div align="center">
 
-![GitHub Commits](https://img.shields.io/badge/dynamic/json?logo=github&label=Total%20Commits&query=%24.totalCommitContributions&url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2Fsuaybdemir&style=for-the-badge&color=6366f1)
-![GitHub Stars](https://img.shields.io/github/stars/suaybdemir?style=for-the-badge&logo=github&label=Total%20Stars&color=f59e0b)
-![GitHub Repos](https://img.shields.io/badge/dynamic/json?logo=github&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsuaybdemir&style=for-the-badge&color=10b981)
-![GitHub PRs](https://img.shields.io/badge/dynamic/json?logo=github&label=Pull%20Requests&query=%24.totalPullRequestContributions&url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2Fsuaybdemir&style=for-the-badge&color=ec4899)
+```json
+{
+  "developer": {
+    "commits": "1000+",
+    "repositories": "23+", 
+    "technologies": "15+",
+    "experience": "Full-Stack & AI/ML"
+  }
+}
+```
+
+![Commits](https://img.shields.io/badge/dynamic/json?logo=github&label=COMMITS&query=%24.totalCommitContributions&url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2Fsuaybdemir&style=for-the-badge&color=0D1117&labelColor=161b22&logoColor=6366f1)
+![Stars](https://img.shields.io/github/stars/suaybdemir?style=for-the-badge&logo=github&label=STARS&color=0D1117&labelColor=161b22&logoColor=f59e0b)
+![Repos](https://img.shields.io/badge/dynamic/json?logo=github&label=REPOS&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsuaybdemir&style=for-the-badge&color=0D1117&labelColor=161b22&logoColor=10b981)
 
 </div>
 
 ---
 
-## 🌟 Öne Çıkan Projeler
+## `> ls ./projects --featured`
 
 <div align="center">
 
-| Proje | Açıklama | Teknoloji |
-|-------|----------|-----------|
-| [**Dashboard-Reporting**](https://github.com/KremnaCompanyChatBot/Dashboard-Reporting) | Kremna Chatbot için web tabanlı analytics paneli | ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) |
-| [**MiDeSeC-YOLOv11**](https://github.com/suaybdemir/MiDeSeC-YOLOv11) | Histopatolojik görüntülerde mitoz tespiti (%100 Recall) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![YOLO](https://img.shields.io/badge/-YOLO-00FFFF?style=flat&logoColor=black) |
-| [**LibraryAPI**](https://github.com/suaybdemir/LibraryAPI) | Kütüphane yönetim sistemi RESTful API | ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white) ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white) |
-| [**MiniECommerce-Microservice**](https://github.com/suaybdemir/MiniECommerce-Microservice) | Mikroservis mimarisi ile e-ticaret sistemi | ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) |
-| [**DesignPatterns**](https://github.com/suaybdemir/DesignPatterns) | Java ile tasarım desenleri örnekleri | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white) |
-| [**ai-chatbot-excel**](https://github.com/suaybdemir/ai-chatbot-excel) | AI destekli Excel chatbot uygulaması | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JS-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| 📁 Repository | 📝 Description | 🛠️ Stack |
+|:--------------|:---------------|:---------|
+| [`Dashboard-Reporting`](https://github.com/KremnaCompanyChatBot/Dashboard-Reporting) | Real-time analytics dashboard for AI Chatbot system | `NestJS` `React` `PostgreSQL` |
+| [`MiDeSeC-YOLOv11`](https://github.com/suaybdemir/MiDeSeC-YOLOv11) | Mitosis detection with 100% Recall & 82.5% mAP | `Python` `YOLOv11` `OpenCV` |
+| [`LibraryAPI`](https://github.com/suaybdemir/LibraryAPI) | RESTful API for library management system | `C#` `.NET` `SQL Server` |
+| [`MiniECommerce-Microservice`](https://github.com/suaybdemir/MiniECommerce-Microservice) | Microservice architecture e-commerce platform | `C#` `.NET` `Docker` `RabbitMQ` |
+| [`DesignPatterns`](https://github.com/suaybdemir/DesignPatterns) | Implementation of common design patterns | `Java` `OOP` |
+| [`ai-chatbot-excel`](https://github.com/suaybdemir/ai-chatbot-excel) | AI-powered Excel assistant with Mistral | `JavaScript` `HTML` `AI` |
 
 </div>
 
 ---
+
+## `> cat /etc/motd`
 
 <div align="center">
-  
-### 💬 Benimle İletişime Geçin!
 
-Yeni projeler, iş birlikleri veya sadece sohbet için her zaman açığım! 🤝
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                                                                             │
+│    "Any sufficiently advanced technology is indistinguishable from magic." │
+│                                                    — Arthur C. Clarke       │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
 
-[![Website](https://img.shields.io/badge/🌐_Website-suaybdemir.com-6366f1?style=for-the-badge)](https://www.suaybdemir.com)
-[![Email](https://img.shields.io/badge/📧_Email-info@suaybdemir.com-ea4335?style=for-the-badge)](mailto:info@suaybdemir.com)
+### 🤝 Let's Connect & Build Something Amazing
 
----
+<a href="https://www.suaybdemir.com"><img src="https://img.shields.io/badge/🌐_suaybdemir.com-0D1117?style=for-the-badge"/></a>
+<a href="mailto:info@suaybdemir.com"><img src="https://img.shields.io/badge/📧_info@suaybdemir.com-0D1117?style=for-the-badge"/></a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=suaybdemir&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+![Profile Views](https://komarev.com/ghpvc/?username=suaybdemir&color=6366f1&style=for-the-badge&label=SYSTEM.VISITORS)
 
 </div>
+
+<!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:161b22,100:0d1117&height=120&section=footer" width="100%"/>
