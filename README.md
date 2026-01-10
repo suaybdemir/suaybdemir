@@ -87,10 +87,15 @@ const suayb = {
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Başarılar & Rozetler
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=suaybdemir&theme=discord&no-frame=true&column=7&margin-w=10" alt="GitHub Trophies"/>
+
+![GitHub Commits](https://img.shields.io/badge/dynamic/json?logo=github&label=Total%20Commits&query=%24.totalCommitContributions&url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2Fsuaybdemir&style=for-the-badge&color=6366f1)
+![GitHub Stars](https://img.shields.io/github/stars/suaybdemir?style=for-the-badge&logo=github&label=Total%20Stars&color=f59e0b)
+![GitHub Repos](https://img.shields.io/badge/dynamic/json?logo=github&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsuaybdemir&style=for-the-badge&color=10b981)
+![GitHub PRs](https://img.shields.io/badge/dynamic/json?logo=github&label=Pull%20Requests&query=%24.totalPullRequestContributions&url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2Fsuaybdemir&style=for-the-badge&color=ec4899)
+
 </div>
 
 ---
