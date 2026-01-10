@@ -12,8 +12,8 @@
 ║                                                                              ║
 ║   > cat /etc/profile                                                         ║
 ║   🎓 Software Engineering Student                                            ║
-║   📍 Türkiye                                                                  ║
-║   💼 Full-Stack Developer & AI Researcher                                   ║
+║   📍 Türkiye                                                                 ║
+║   💼 Full-Stack Developer & AI Researcher                                    ║
 ║   🔗 https://suaybdemir.com                                                  ║
 ║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
