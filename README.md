@@ -29,6 +29,12 @@ _I don't optimize for happy paths._
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=suaybdemir&show_icons=false&hide_border=true&theme=github_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=suaybdemir&show_icons=false&hide_border=true&theme=default">
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=suaybdemir&show_icons=false&hide_border=true">
+</picture>
+
 ---
 
 ## CloudScale Event Platform
